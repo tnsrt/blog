@@ -1,1 +1,1 @@
-Sitemap: https://tnsrt.github.io/blog/sitemap.xml
+Sitemap: pysanity.tk/sitemap.xml
